@@ -1,0 +1,8 @@
+.classpath
+.project
+.settings/
+target/
+*.log
+*/src/main/webapp/WEB-INF/lib/
+*/bin
+/bin

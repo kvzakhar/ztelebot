@@ -65,6 +65,9 @@ public class BotHelper {
         BufferedReader in = null;
 
         try{
+            System.setProperty("https.proxyHost", "67.20.79.33");
+            System.setProperty("https.proxyPort","443");
+
             URL address = new URL(url+method);
             HttpsURLConnection con = (HttpsURLConnection) address.openConnection();
             con.setRequestMethod("GET");
@@ -80,6 +83,8 @@ public class BotHelper {
                     response.append(inputLine);
                 }
                 result = Optional.of(response.toString());
+            } else{
+                System.out.println(responseCode);
             }
 
 

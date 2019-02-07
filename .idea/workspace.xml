@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7eebed62-8198-462d-9fea-3b4bfbf25062" name="Default" comment="" />
+    <list default="true" id="7eebed62-8198-462d-9fea-3b4bfbf25062" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/zz/telegrambot/BotHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/zz/telegrambot/BotHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/zz/telegrambot/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/zz/telegrambot/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/zz/telegrambot/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/zz/telegrambot/Main.class" afterDir="false" />
+    </list>
     <ignored path="ZadvicerBot.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,12 +25,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DataBaseHelper.java" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ru/zz/db/DataBaseHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+            <state relative-caret-position="220">
+              <caret line="62" column="26" selection-start-line="62" selection-start-column="26" selection-end-line="62" selection-end-column="26" />
               <folding>
+                <element signature="e#905#906#0" expanded="true" />
+                <element signature="e#949#950#0" expanded="true" />
                 <element signature="method#updateField#0;class#DataBaseHelper#0" />
                 <element signature="method#existRentUser#0;class#DataBaseHelper#0" />
               </folding>
@@ -34,53 +40,46 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/ru/zz/telegrambot/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+            <state relative-caret-position="326">
+              <caret line="30" column="107" selection-start-line="30" selection-start-column="107" selection-end-line="30" selection-end-column="107" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MessagesChecker.java" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ru/zz/telegrambot/MessagesChecker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="42" column="44" selection-start-line="42" selection-start-column="44" selection-end-line="42" selection-end-column="44" />
+            <state relative-caret-position="460">
+              <caret line="50" column="16" lean-forward="true" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
               <folding>
+                <element signature="e#1296#1297#0" expanded="true" />
+                <element signature="e#1348#1349#0" expanded="true" />
+                <element signature="e#5983#6089#1" />
+                <element signature="e#7165#7476#1" />
+                <element signature="e#7567#7881#1" />
+                <element signature="e#9802#11083#1" />
+                <element signature="e#11144#22582#1" />
+                <element signature="e#23249#23520#1" />
+                <element signature="e#23585#25047#1" />
                 <element signature="method#NaN#0;class#MessagesChecker#0" />
                 <element signature="method#parseText#0;class#MessagesChecker#0" />
                 <element signature="method#getRentMenu#0;class#MessagesChecker#0" />
                 <element signature="method#defaultPrimaryButtons#0;class#MessagesChecker#0" />
                 <element signature="method#hideKeybord#0;class#MessagesChecker#0" />
-                <marker date="1519744922714" expanded="true" signature="3540:9183" ph="{...}" />
-                <marker date="1519744922714" expanded="true" signature="5487:8631" ph="{...}" />
-                <marker date="1519744922714" expanded="true" signature="5532:5900" ph="{...}" />
-                <marker date="1519744922714" expanded="false" signature="5983:6089" ph="{...}" />
-                <marker date="1519744922714" expanded="true" signature="6187:6470" ph="{...}" />
-                <marker date="1519744922714" expanded="true" signature="6563:7074" ph="{...}" />
-                <marker date="1519744922714" expanded="false" signature="7165:7476" ph="{...}" />
-                <marker date="1519744922714" expanded="false" signature="7567:7881" ph="{...}" />
-                <marker date="1519744922714" expanded="false" signature="9802:11083" ph="{...}" />
-                <marker date="1519744922714" expanded="false" signature="11144:22582" ph="{...}" />
-                <marker date="1519744922714" expanded="true" signature="22643:30706" ph="{...}" />
-                <marker date="1519744922714" expanded="true" signature="22836:25477" ph="{...}" />
-                <marker date="1519744922714" expanded="false" signature="23249:23520" ph="{...}" />
-                <marker date="1519744922714" expanded="false" signature="23585:25047" ph="{...}" />
                 <marker date="1519744922714" expanded="false" signature="25112:25140" ph="{...}" />
-                <marker date="1519744922714" expanded="true" signature="25703:27245" ph="{...}" />
-                <marker date="1519744922714" expanded="true" signature="27339:28495" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BotHelper.java" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ru/zz/telegrambot/BotHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="71" selection-start-line="71" selection-end-line="71" />
+            <state relative-caret-position="258">
+              <caret line="61" column="57" selection-start-line="61" selection-start-column="57" selection-end-line="61" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -93,6 +92,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -125,11 +127,11 @@
         <option value="$PROJECT_DIR$/src/main/java/ru/zz/rent/PrimaryLightHolder.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/zz/rent/LastIndicationsHolder.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/zz/db/DataBaseHelper.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ru/zz/telegrambot/BotHelper.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/zz/jackson/IncomeMessage.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/zz/jackson/Result.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/zz/jackson/Chat.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/zz/telegrambot/MessagesChecker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/zz/telegrambot/BotHelper.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/zz/telegrambot/Main.java" />
       </list>
     </option>
@@ -140,14 +142,12 @@
     <option name="width" value="1618" />
     <option name="height" value="884" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -190,15 +190,26 @@
               <item name="zz" type="462c0819:PsiDirectoryNode" />
               <item name="api" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ZadvicerBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ZadvicerBot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zz" type="462c0819:PsiDirectoryNode" />
+              <item name="telegrambot" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541372342846" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -218,92 +229,6 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.zz.telegrambot.Main" />
-      <module name="ZadvicerBot" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.zz.telegrambot.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <module name="" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -351,22 +276,6 @@
       </Profilers>
       <method />
     </configuration>
-    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list />
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method />
-    </configuration>
     <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -388,47 +297,39 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SCRATCH_FILE_ID" value="0" />
-      <option name="MAIN_CLASS_NAME" />
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
       <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ZadvicerBot" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-      <method />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -458,11 +359,55 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.zz.telegrambot.Main" />
+      <module name="ZadvicerBot" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.zz.telegrambot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
-      <method />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <recent_temporary>
       <list>
@@ -485,36 +430,38 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1618" height="884" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.29210526" />
-      <window_info id="Palette&#9;" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26773763" />
-      <window_info anchor="bottom" id="Code Review" order="8" />
-      <window_info anchor="right" id="Mongo Explorer" order="4" weight="0.12" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info anchor="right" id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.236875" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.269131" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.32894737" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Palette&#9;" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25801954" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.29210526" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32894737" />
+      <window_info anchor="bottom" id="Code Review" order="12" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Designer" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Mongo Explorer" order="8" weight="0.12" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -525,179 +472,11 @@
       <collection />
     </option>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="11" />
-    </breakpoint-manager>
-  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/zz/telegrambot/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/zz/db/DataBaseHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
-          <folding>
-            <element signature="method#updateField#0;class#DataBaseHelper#0" />
-            <element signature="method#existRentUser#0;class#DataBaseHelper#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/zz/telegrambot/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/zz/telegrambot/MessagesChecker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="method#NaN#0;class#MessagesChecker#0" />
-            <element signature="method#parseText#0;class#MessagesChecker#0" />
-            <element signature="method#getRentMenu#0;class#MessagesChecker#0" />
-            <element signature="method#defaultPrimaryButtons#0;class#MessagesChecker#0" />
-            <element signature="method#hideKeybord#0;class#MessagesChecker#0" />
-            <marker date="1519744922714" expanded="true" signature="3540:9183" ph="{...}" />
-            <marker date="1519744922714" expanded="true" signature="5487:8631" ph="{...}" />
-            <marker date="1519744922714" expanded="true" signature="5532:5900" ph="{...}" />
-            <marker date="1519744922714" expanded="false" signature="5983:6089" ph="{...}" />
-            <marker date="1519744922714" expanded="true" signature="6187:6470" ph="{...}" />
-            <marker date="1519744922714" expanded="true" signature="6563:7074" ph="{...}" />
-            <marker date="1519744922714" expanded="false" signature="7165:7476" ph="{...}" />
-            <marker date="1519744922714" expanded="false" signature="7567:7881" ph="{...}" />
-            <marker date="1519744922714" expanded="false" signature="9802:11083" ph="{...}" />
-            <marker date="1519744922714" expanded="false" signature="11144:22582" ph="{...}" />
-            <marker date="1519744922714" expanded="true" signature="22643:30706" ph="{...}" />
-            <marker date="1519744922714" expanded="true" signature="22836:25477" ph="{...}" />
-            <marker date="1519744922714" expanded="false" signature="23249:23520" ph="{...}" />
-            <marker date="1519744922714" expanded="false" signature="23585:25047" ph="{...}" />
-            <marker date="1519744922714" expanded="false" signature="25112:25140" ph="{...}" />
-            <marker date="1519744922714" expanded="true" signature="25703:27245" ph="{...}" />
-            <marker date="1519744922714" expanded="true" signature="27339:28495" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/zz/api/KeyboardButton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/zz/telegrambot/Response.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/zz/telegrambot/BotHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="39" column="57" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/zz/db/DataBaseHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="920">
-          <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
-          <folding>
-            <element signature="method#updateField#0;class#DataBaseHelper#0" />
-            <element signature="method#existRentUser#0;class#DataBaseHelper#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/zz/telegrambot/MessagesChecker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2380">
-          <caret line="133" column="104" selection-start-line="133" selection-start-column="104" selection-end-line="133" selection-end-column="104" />
-          <folding>
-            <element signature="method#NaN#0;class#MessagesChecker#0" />
-            <element signature="method#parseText#0;class#MessagesChecker#0" />
-            <element signature="method#getRentMenu#0;class#MessagesChecker#0" />
-            <element signature="method#defaultPrimaryButtons#0;class#MessagesChecker#0" />
-            <element signature="method#hideKeybord#0;class#MessagesChecker#0" />
-            <marker date="1519744922714" expanded="true" signature="3540:9183" ph="{...}" />
-            <marker date="1519744922714" expanded="true" signature="5487:8631" ph="{...}" />
-            <marker date="1519744922714" expanded="true" signature="5532:5900" ph="{...}" />
-            <marker date="1519744922714" expanded="false" signature="5983:6089" ph="{...}" />
-            <marker date="1519744922714" expanded="true" signature="6187:6470" ph="{...}" />
-            <marker date="1519744922714" expanded="true" signature="6563:7074" ph="{...}" />
-            <marker date="1519744922714" expanded="false" signature="7165:7476" ph="{...}" />
-            <marker date="1519744922714" expanded="false" signature="7567:7881" ph="{...}" />
-            <marker date="1519744922714" expanded="false" signature="9802:11083" ph="{...}" />
-            <marker date="1519744922714" expanded="false" signature="11144:22582" ph="{...}" />
-            <marker date="1519744922714" expanded="true" signature="22643:30706" ph="{...}" />
-            <marker date="1519744922714" expanded="true" signature="22836:25477" ph="{...}" />
-            <marker date="1519744922714" expanded="false" signature="23249:23520" ph="{...}" />
-            <marker date="1519744922714" expanded="false" signature="23585:25047" ph="{...}" />
-            <marker date="1519744922714" expanded="false" signature="25112:25140" ph="{...}" />
-            <marker date="1519744922714" expanded="true" signature="25703:27245" ph="{...}" />
-            <marker date="1519744922714" expanded="true" signature="27339:28495" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/zz/api/KeyboardButton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/zz/api/ReplyKeyboardHide.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/zz/api/ReplyKeyboardMarkup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="740">
-          <caret line="39" column="6" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/zz/telegrambot/Response.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/zz/telegrambot/BotHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="24" column="53" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1009">
-          <caret line="120" column="14" selection-start-line="120" selection-start-column="14" selection-end-line="120" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ru/zz/jackson/From.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -915,17 +694,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/zz/db/DataBaseHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
-          <folding>
-            <element signature="method#updateField#0;class#DataBaseHelper#0" />
-            <element signature="method#existRentUser#0;class#DataBaseHelper#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ru/zz/rent/PrimaryWaterHolder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
@@ -933,48 +701,72 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2180">
+          <caret line="109" column="38" lean-forward="true" selection-start-line="109" selection-start-column="38" selection-end-line="109" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mongodb/mongodb-driver/3.0.4/mongodb-driver-3.0.4.jar!/com/mongodb/MongoClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+          <folding>
+            <element signature="e#1155#1156#0" expanded="true" />
+            <element signature="e#1196#1197#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/zz/db/DataBaseHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="62" column="26" selection-start-line="62" selection-start-column="26" selection-end-line="62" selection-end-column="26" />
+          <folding>
+            <element signature="e#905#906#0" expanded="true" />
+            <element signature="e#949#950#0" expanded="true" />
+            <element signature="method#updateField#0;class#DataBaseHelper#0" />
+            <element signature="method#existRentUser#0;class#DataBaseHelper#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ru/zz/telegrambot/BotHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        <state relative-caret-position="258">
+          <caret line="61" column="57" selection-start-line="61" selection-start-column="57" selection-end-line="61" selection-end-column="57" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ru/zz/telegrambot/MessagesChecker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="42" column="44" selection-start-line="42" selection-start-column="44" selection-end-line="42" selection-end-column="44" />
+        <state relative-caret-position="460">
+          <caret line="50" column="16" lean-forward="true" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
           <folding>
+            <element signature="e#1296#1297#0" expanded="true" />
+            <element signature="e#1348#1349#0" expanded="true" />
+            <element signature="e#5983#6089#1" />
+            <element signature="e#7165#7476#1" />
+            <element signature="e#7567#7881#1" />
+            <element signature="e#9802#11083#1" />
+            <element signature="e#11144#22582#1" />
+            <element signature="e#23249#23520#1" />
+            <element signature="e#23585#25047#1" />
             <element signature="method#NaN#0;class#MessagesChecker#0" />
             <element signature="method#parseText#0;class#MessagesChecker#0" />
             <element signature="method#getRentMenu#0;class#MessagesChecker#0" />
             <element signature="method#defaultPrimaryButtons#0;class#MessagesChecker#0" />
             <element signature="method#hideKeybord#0;class#MessagesChecker#0" />
-            <marker date="1519744922714" expanded="true" signature="3540:9183" ph="{...}" />
-            <marker date="1519744922714" expanded="true" signature="5487:8631" ph="{...}" />
-            <marker date="1519744922714" expanded="true" signature="5532:5900" ph="{...}" />
-            <marker date="1519744922714" expanded="false" signature="5983:6089" ph="{...}" />
-            <marker date="1519744922714" expanded="true" signature="6187:6470" ph="{...}" />
-            <marker date="1519744922714" expanded="true" signature="6563:7074" ph="{...}" />
-            <marker date="1519744922714" expanded="false" signature="7165:7476" ph="{...}" />
-            <marker date="1519744922714" expanded="false" signature="7567:7881" ph="{...}" />
-            <marker date="1519744922714" expanded="false" signature="9802:11083" ph="{...}" />
-            <marker date="1519744922714" expanded="false" signature="11144:22582" ph="{...}" />
-            <marker date="1519744922714" expanded="true" signature="22643:30706" ph="{...}" />
-            <marker date="1519744922714" expanded="true" signature="22836:25477" ph="{...}" />
-            <marker date="1519744922714" expanded="false" signature="23249:23520" ph="{...}" />
-            <marker date="1519744922714" expanded="false" signature="23585:25047" ph="{...}" />
             <marker date="1519744922714" expanded="false" signature="25112:25140" ph="{...}" />
-            <marker date="1519744922714" expanded="true" signature="25703:27245" ph="{...}" />
-            <marker date="1519744922714" expanded="true" signature="27339:28495" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ru/zz/telegrambot/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+        <state relative-caret-position="326">
+          <caret line="30" column="107" selection-start-line="30" selection-start-column="107" selection-end-line="30" selection-end-column="107" />
         </state>
       </provider>
     </entry>
